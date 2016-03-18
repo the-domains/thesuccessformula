@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TheSuccessFormula]]></title>
         <description><![CDATA[TheSuccessFormula]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thesuccessformula/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 17:38:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 17:40:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thesuccessformula/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86e91a0c-325a-4bcd-834e-8fe4b224a748.jpg" alt="" title="">]]></description>
-            <link>undefinedundefined/index.html</link>
+            <link>https://thegrid.ai/thesuccessformula/undefined/index.html</link>
             <guid isPermaLink="false">bc09d409-9ed2-4fba-bb55-eb17ae9fbe77</guid>
-            <pubDate>Fri, 18 Mar 2016 17:37:51 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2016 17:40:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
