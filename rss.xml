@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TheSuccessFormula]]></title>
-        <description><![CDATA[TheSuccessFormula]]></description>
+        <title><![CDATA[The Success Formula]]></title>
+        <description><![CDATA[The Success Formula]]></description>
         <link>https://thegrid.ai/thesuccessformula/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 17:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 17:56:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thesuccessformula/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/thesuccessformula/3d7281b7-10d1-4ffd-9414-29307f4503d9/index.html</link>
+            <guid isPermaLink="false">3d7281b7-10d1-4ffd-9414-29307f4503d9</guid>
+            <pubDate>Fri, 18 Mar 2016 17:56:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86e91a0c-325a-4bcd-834e-8fe4b224a748.jpg" alt="" title="">]]></description>
