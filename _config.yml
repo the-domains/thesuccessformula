@@ -1,0 +1,28 @@
+name: TheSuccessFormula
+favicon: null
+layout_spectrum: 0.36531639960594475
+typography_spectrum: 0.8148150267079473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.018017712980508804
+  lightness: 0.8610127680003643
+  saturation: 0.9736083443276584
+  rhythmicContrast: 0.286250158213079
+purpose: []
