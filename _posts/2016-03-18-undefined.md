@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: undefined
-datePublished: '2016-03-18T17:37:51.864Z'
-dateModified: '2016-03-18T17:37:32.796Z'
+datePublished: '2016-03-18T17:40:04.652Z'
+dateModified: '2016-03-18T17:37:58.977Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-18-undefined.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-undefined.md
-published: true
 url: undefined/index.html
 _type: Article
 
