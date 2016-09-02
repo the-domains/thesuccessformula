@@ -1,20 +1,4 @@
-name: TheSuccessFormula
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.05759
-title: The Success Formula
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#010101'
@@ -26,4 +10,24 @@ color:
   lightness: 0.625
   saturation: 0.1875
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: TheSuccessFormula
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    url: 'http://danielmerriman.com'
+    type: external
+favicon: null
+title: The Success Formula
 purpose: []
